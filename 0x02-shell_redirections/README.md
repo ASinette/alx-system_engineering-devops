@@ -1,1 +1,1 @@
-It's My Schell projets redirections
+My shell redirections
